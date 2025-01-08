@@ -8,7 +8,7 @@
 </div>
 
 <ul>
-  <li>🔥 Desenvolvedor Front-end. FullStack existe? 🤔😧</li>
+  <li>🔥 Desenvolvedor FullStack 😧</li>
   <li>💬 Me pergunte sobre <code>Desenvolvimento Web, SEO, Performance, Hardware, Engenharia de Software</code></li>
   <li>♟️ Nível no xadrez? Intermediário...😪</li>
 </ul>
@@ -40,17 +40,11 @@
   ![](https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=FFFFFF)&ensp;
   ![](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=Figma&logoColor=FA0072)&ensp;
   ![](https://img.shields.io/badge/-VS%20Code-1E1E1E?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&ensp;
+  ![](https://img.shields.io/badge/Adonis-1E1E1E?style=for-the-badge&logo=Adonisjs&logoColor=purple)&ensp;
+  ![](https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=MySQL&logoColor=yellow)&ensp;
+  ![](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=PostgreSQL&logoColor=blue)&ensp;
 
 </div>  
-
-<div align="center">
-
-## Estou estudando 👨‍🎓
-
-![](https://img.shields.io/badge/Adonis-1E1E1E?style=for-the-badge&logo=Adonisjs&logoColor=purple)&ensp;
-![](https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=MySQL&logoColor=yellow)&ensp;
-
-</div>
 
 <div align="center">
 
@@ -58,7 +52,6 @@
 
 ![](https://img.shields.io/badge/Ruby-1E1E1E?style=for-the-badge&logo=Ruby&logoColor=c52f24)&ensp;
 ![](https://img.shields.io/badge/RubyOnRails-1E1E1E?style=for-the-badge&logo=RubyOnRails&logoColor=c52f24)&ensp;
-![](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=PostgreSQL&logoColor=blue)&ensp;
 
 </div>
 
