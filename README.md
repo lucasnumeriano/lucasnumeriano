@@ -50,7 +50,7 @@
 ## Estatísticas
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasnumeriano&show_icons=true&theme=transparent&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasnumeriano&show_icons=true&theme=transparent"/>
 <img height="170" src="https://streak-stats.demolab.com?user=lucasnumeriano&theme=transparent&locale=pt_BR"/>
 </p>
 
@@ -117,7 +117,7 @@
 ## Troféus
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lucasnumeriano&theme=darkhub&margin-w=5&margin-h=15"/>
+<img src="https://github-profile-trophy-sigma-one.vercel.app/?username=lucasnumeriano&theme=darkhub&margin-w=5&margin-h=15"/>
 </p>
 
 ---
