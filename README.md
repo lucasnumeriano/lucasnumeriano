@@ -50,7 +50,7 @@
 ## Estatísticas
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasnumeriano&show_icons=true&theme=transparent"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=lucasnumeriano&show_icons=true&theme=transparent"/>
 <img height="170" src="https://streak-stats.demolab.com?user=lucasnumeriano&theme=transparent&locale=pt_BR"/>
 </p>
 
