@@ -117,7 +117,7 @@
 ## Troféus
 
 <p align="center">
-<img src="https://github-profile-trophy-sigma-one.vercel.app/?username=lucasnumeriano&theme=darkhub&margin-w=5&margin-h=15"/>
+<img src="https://trophy.ryglcloud.net/?username=lucasnumeriano&theme=darkhub&margin-w=5&margin-h=15"/>
 </p>
 
 ---
